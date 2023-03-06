@@ -1,4 +1,4 @@
-# C++ Basic syntax
+# C++ 
 
 ***
 
@@ -14,15 +14,15 @@ int main(){
 
 ***
 
-1. Header
+### Header
 `#include` is declaration of loading header files.
 header files can make the functions available.
 
-2. namespace
+### namespace
 `usin namespace std;` is declaration of using namespace.
 only in C++, `cout` is defined this code.
 
-3. cout & cin
+### cout & cin
 `cout` can print variables in terminal. printf in C.
 cout is object and standard input-output in terminal.
 <<, >> means c++ input-output stream.
@@ -30,7 +30,7 @@ cout is object and standard input-output in terminal.
 ex) `cout << "Hello, World!`
 print "Hello, World" to output stream through cout object.
 
-4. string (header)
+### string (header)
 `# include string`, you can use string.
 
 table-1 : string operator
@@ -40,5 +40,4 @@ table-1 : string operator
 |    +=    | Addition of strings (assignment operation)|
 |    ==    | comparative operation (equal)             |
 |    !=    | comparative operation (not equal)         |
-|     >    | comparative operation                     |
-|     <    |                                           |
+|    <>    | comparative operation                     |
